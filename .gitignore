@@ -1,0 +1,39 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# Rider
+.idea/
+*.sln
+*.csproj
+*.user
+*.unityproj
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Auto-generated
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Crashlytics
+crashlytics-build.properties
+
+# Unity Addressable Assets
+*.addressable
+
+# JetBrains Rider
+*.sln.DotSettings
